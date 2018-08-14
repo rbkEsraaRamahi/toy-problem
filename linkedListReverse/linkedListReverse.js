@@ -15,4 +15,7 @@ E -> D -> C -> B -> A -> null
 ‘Constraint 2: Do this in constant space’
 
 ‘Constraint 3: Do not mutate the original nodes by adding any new properties */
+var reverseLinkedList = function(node) {
+	
+}
 
